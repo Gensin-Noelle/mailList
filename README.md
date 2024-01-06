@@ -1,2 +1,2 @@
 # mailList
-Just a project to text GitHub's function.
+Just a project to test GitHub's function.
